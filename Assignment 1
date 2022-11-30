@@ -1,8 +1,0 @@
-1. Write an HTML document that has 5 states and include 5 cities for each of the states(Hint: Use nested list and for states use unordered list and ordered list for cities).
-
-2. Use an image of your choice and create a hyperlink for the image on click it has to navigate to another image (height:200, width:300)
-
-3. Write an HTML document that includes <p>,<u>,<i>,<b> and use alignments center, right, left, and justify tag.(use lorem ipsum text which should have 5-6 paragraphs with all these tags included).
-
-4. Write an HTML document that uses an anchor tag to navigate through images, documents and open a website. (Hint: in a single document)
-
